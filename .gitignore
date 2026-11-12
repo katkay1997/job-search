@@ -1,0 +1,5 @@
+# Never upload secrets or your virtual environment
+*.env
+*.json
+venv/
+__pycache__/
